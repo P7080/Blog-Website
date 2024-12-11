@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    border-bottom: 2px solid rgb(31, 30, 30);
+    margin: 10px;
+}
+
+.blog{
+    text-align: center;
+    width: 30%;
+    margin-left: 33%;
+    margin-top: 15px;
+}
+
+.blog-heading{
+    font-size: 18px;
+    padding: 15px;
+}
+
+.blog-image{
+    margin-left: -92px;
+}
+
+.blog-para p{
+    padding-top: 10px;
+    margin: 10px;
+    text-align: start;   
+    color: rgb(79, 77, 77); 
+}
+
